@@ -19,3 +19,5 @@ Clone the repository in your local system.
 4. cd into your cloned repository and type the following
 5. ```chmod 777 chromedriver_for_mac ```
 6. Run ```python3 main.py ``` to execute the program.
+
+### Link to working video - https://youtu.be/ObLHTGLKq28
